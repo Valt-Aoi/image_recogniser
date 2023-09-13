@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(0, 255, 255);
+    color: rgb(255, 0, 0);
+}
+.heading{
+    width: 80%;
+}
+#camera{
+    border: 2px double black;
+    width: 300px;
+    height: 400px;
+}
+#object,#accuracy,.object_names{
+    color: rgb(202, 14, 52);
+}
